@@ -1,7 +1,8 @@
 .firstheader{
     text-align: center;
     color: #0B3861;
-    font-family: "arial verdana", sans-serif;
+    /*color:#a9a9a9;*/
+    font-family:"Lucida Grande","Lucida Sans Unicode",Verdana,Sans-Serif;
     font-size: 36
 }
 .headers-list{
@@ -10,10 +11,13 @@
 }
 .para1{
     text-align: center;
-    font-family: "arial verdana", sans-serif;
+    font-family:"Lucida Grande","Lucida Sans Unicode",Verdana,Sans-Serif;
     font-size: 24;
     color: rgb(150,150,255)
 }
 .front-page{
     background-color: #E6E6E6;
+    border-top-style: solid;
+    border-top-width: 3px;
+    border-top-color:#a9a9a9
 }
