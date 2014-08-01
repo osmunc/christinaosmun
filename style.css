@@ -40,7 +40,8 @@ div.front-page p{
     border-top-width: 2px;
     border-top-color:#a9a9a9;
     z-index:0;*/
-    height: 500px;
+    width:300px;
+    height: 300px;
     margin: 30px 50px;
     background-color: #ffffff;
     border: 1px solid black;
