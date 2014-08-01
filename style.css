@@ -16,7 +16,7 @@ body{
     color: black;
     /*color:#a9a9a9;*/
     font-family:"Lucida Grande","Lucida Sans Unicode",Verdana,Sans-Serif;
-    font-size: 50;
+    font-size: 32;
 }
 .headers-list{
     direction:ltr;
@@ -40,9 +40,16 @@ div.front-page p{
     border-top-width: 2px;
     border-top-color:#a9a9a9;
     z-index:0;*/
-    width:500px;
-    height: 500px;
-    margin: 30px 50px;
+    
+     position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    
+    width:300px;
+    height: 300px;
+    /*margin: 30px 50px;*/
     background-color: #ffffff;
     border: 1px solid black;
     opacity: 0.6;
