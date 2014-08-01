@@ -1,30 +1,49 @@
-body{
-    background-color: #E6E6E6
+body,.firstheader,.headers-list,.para1,.frontpage{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
 }
-
+body{
+    background-color: #E6E6E6;
+    margin: 0
+}
 .firstheader{
     text-align: center;
     color: #0B3861;
     /*color:#a9a9a9;*/
     font-family:"Lucida Grande","Lucida Sans Unicode",Verdana,Sans-Serif;
-    font-size: 36
+    font-size: 46
 }
-
 .headers-list{
     direction:ltr;
-    background-color:white
+    background-color:white;
+    text-align: center;
+    font-family:"Lucida Grande","Lucida Sans Unicode",Verdana,Sans-Serif;
+    font-size: 24;
+    color: rgb(150,150,255)
+    
 }
-
 .para1{
     text-align: center;
     font-family:"Lucida Grande","Lucida Sans Unicode",Verdana,Sans-Serif;
     font-size: 24;
     color: rgb(150,150,255)
 }
-
 .front-page{
     background-color: #E6E6E6;
     border-top-style: solid;
     border-top-width: 2px;
     border-top-color:#a9a9a9
+}
+
+a {
+  color: rgb(150,150,255);
+  background-color: transparent;
+  text-decoration: none;
+  font-weight: bold;
+  font-size:30
+}
+ul, li {
+  list-style: none;
+  padding: 0 0 0 8px;
 }
