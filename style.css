@@ -4,8 +4,9 @@ body,.firstheader,.headers-list,.para1,.frontpage{
     padding: 0px;
 }
 body{
-    background-color: #E6E6E6;
+    /*background-color: #E6E6E6;*/
     margin: 0
+    background-image: url("https://cloud.githubusercontent.com/assets/8304878/3784735/fee11ff4-19bb-11e4-98ac-430910eef921.JPG");
 }
 .firstheader{
     text-align: center;
