@@ -35,21 +35,15 @@ div.front-page p{
     z-index:-1;
     margin:20px;
 }
-.front-page{
-    /*background-color: #E6E6E6;
-    border-top-style: solid;
-    border-top-width: 2px;
-    border-top-color:#a9a9a9;
-    z-index:0;*/
-    
-     position: absolute;
-    top: 40%;
+.front-page{    
+    position: absolute;
+    top: 30%;
     left: 40%;
     margin-top: -50px;
     margin-left: -50px;
     
     width:420px;
-    height: 380px;
+    height: 370px;
     /*margin: 30px 50px;*/
     background-color: #ffffff;
     border: 1px solid black;
